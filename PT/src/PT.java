@@ -152,9 +152,7 @@ public class PT extends JFrame implements ActionListener{
 	}
 	public static void main(String[] args) {
 		new PT();
-		//String csvFile = "C:\\Users\\dmitri.baibus\\Desktop\\Patrycja_PT\\electronic Reaction Monitoring Report – ad-hoc reference period_tivozanib.csv";
-		//String csvFilePT = "C:\\Users\\dmitri.baibus\\Desktop\\Patrycja_PT\\Tivozanib_PT.csv";
-    }
+    	}
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
